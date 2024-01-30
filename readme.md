@@ -9,5 +9,5 @@
 
 ## Notes
 
--Improved responsiveness
--Rerouted images and made self-sufficient
+- Improved responsiveness
+- Rerouted images and made self-sufficient
